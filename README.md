@@ -1,3 +1,8 @@
+# devops-capstone-project
+
+IBM DevOps Capstone Project: Customer Accounts microservice (Flask) with CI/CD, security, containerization, and Kubernetes/OpenShift deployment.
+
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
