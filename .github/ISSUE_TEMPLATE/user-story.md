@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Create a user story for the DevOps Capstone project
+title: "[User Story] "
+labels: enhancement
+assignees: ""
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
