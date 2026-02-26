@@ -175,7 +175,6 @@ class TestAccountService(TestCase):
         resp = self.client.put(BASE_URL)  # PUT "/accounts" is not allowed
         self.assertEqual(resp.status_code, status.HTTP_405_METHOD_NOT_ALLOWED)
 
-
     ######################################################################
     #  SECURITY TESTS
     ######################################################################
