@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/EverstormDevelopment/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 IBM DevOps Capstone Project: Customer Accounts microservice (Flask) with CI/CD, security, containerization, and Kubernetes/OpenShift deployment.
 
 
